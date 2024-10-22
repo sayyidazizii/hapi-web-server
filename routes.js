@@ -1,3 +1,5 @@
+// Query Parameters
+
 const routes = [
   {
     method: "GET",
